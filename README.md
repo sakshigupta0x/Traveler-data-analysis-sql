@@ -3,8 +3,10 @@ This project aims to conduct Exploratory Data Analysis (EDA) on a traveler datas
 The dataset can be helpful for travel-related businesses to create travel packages and marketing campaigns as per insights drawn from the data.
 
 ## Contents
-* Dataset
-* Technologies Used
+* [Dataset](#dataset)
+* [Technologies Used](#technologies-used)
+* [Tableau Dashboard Snapshot](#tableau-dashboard-snapshot)
+* [Insights](#insights)
 
 ## Dataset
 The dataset was obtained from Kaggle and containes data from the year 2021 to 2025(planned travel).
@@ -27,6 +29,10 @@ The traveler dataset includes various attributes such as:
 ## Technologies Used
 * SQL: EDA
 * Tableau: Data Visualiztion
+
+## Tableau Dashboard Snapshot
+![image](https://github.com/user-attachments/assets/c6ae6f5b-e0a9-4ea2-a4ea-2ca16d24d683)
+Visit Tableau Dashboard: [click here](https://public.tableau.com/app/profile/sakshi.gupta3961/viz/TravelerDataAnalysis/TravelerDataAnalysis?publish=yes)
 
 ## Insights
 * People between the age of 25-30 were the most frequent travelers and people prefer to spend around 7-8 days travelling.
